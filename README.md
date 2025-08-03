@@ -1,4 +1,6 @@
-# Steam Deck Discord Status
+# Forked for personal use
+
+# Non-Steam Deck Discord Status
 
 Updates Discord Rich Presence with the currently running game while on Steam Deck.
 
