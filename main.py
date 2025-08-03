@@ -7,7 +7,7 @@ import uuid
 
 import decky_plugin
 
-CLIENT_ID = "1055680235682672682"
+CLIENT_ID = "1401441405045444762"
 
 OP_HANDSHAKE = 0
 OP_FRAME = 1
@@ -132,10 +132,10 @@ class Plugin:
                 "args": {
                     "pid": os.getpid(),
                     "activity": {
-                        "state": "on Steam Deck",
+                        "state": "",
                         "assets": {
                             "large_image": activity["imageUrl"],
-                            "small_image": "https://cdn.discordapp.com/app-assets/1055680235682672682/1056080943783354388.png"
+                            "small_image": ""
                         },
                         "timestamps": {
                             "start": activity["startTime"]
